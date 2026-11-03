@@ -18,7 +18,7 @@ st.set_page_config(
 # LOAD DATA AND MODEL
 # --------------------------------
 
-df = pd.read_csv("real_estate_processed.csv")
+df = pd.read_csv("real_estate_processed.csv.gz", compression="gzip")
 model = joblib.load("investment_model.pkl")
 
 # --------------------------------
