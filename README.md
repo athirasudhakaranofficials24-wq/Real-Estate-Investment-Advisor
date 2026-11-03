@@ -1,4 +1,13 @@
 # Real Estate Investment Advisor – Predicting Property Profitability & Future Value
+## 🚀 Live Demo
+
+**Try the application here:**
+
+[Open Real Estate Investment Advisor](https://real-estate-investment-advisor-7oxrixhqycwoou2t39cg5z.streamlit.app/)
+
+---
+
+
 
 ## Project Overview
 This project is a Machine Learning-based Real Estate Investment Advisor designed to analyze property data, evaluate investment potential, and estimate future property values.
