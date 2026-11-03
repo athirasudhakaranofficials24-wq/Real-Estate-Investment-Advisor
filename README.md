@@ -24,11 +24,11 @@ The project uses Python, Random Forest, MLflow, and Streamlit to build an intera
 - Plotly
 
 ## Project Structure
-- `app.py` – Streamlit web application
-- `real estate project.ipynb` – Data analysis and model development
-- `investment_model.pkl` – Trained machine learning model
-- `scripts/` – Python training and MLflow tracking script
-- `requirements.txt` – Required Python libraries
+- app.py
+- real estate project.py
+- real estate project.ipynb
+- investment_model.pkl
+- requirements.txt
 
 ## Machine Learning
 A Random Forest Classifier is used to classify properties based on the project's investment-label criteria.
